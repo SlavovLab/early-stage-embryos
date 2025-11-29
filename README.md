@@ -6,7 +6,8 @@ Here you will find scripts and related files that are behind analyses presented 
 
 Iwamoto-Stohl LK, Petelski AA, ... Slavov N., Zernicka-Goetz N (2024)
 [Proteome asymmetry in mouse and human embryos before fate specification](https://www.biorxiv.org/content/10.1101/2024.08.26.609777v1)
-*bioRxiv*,   doi: [10.1101/2024.08.26.609777](https://doi.org/10.1101/2024.08.26.609777)
+*bioRxiv*,   doi: [10.1101/2024.08.26.609777](https://doi.org/10.1101/2024.08.26.609777), 
+ - Data website: [scp.slavovlab.net/Stohl_Petelski_et_al_2024](https://scp.slavovlab.net/Stohl_Petelski_et_al_2024)
 
 
 
